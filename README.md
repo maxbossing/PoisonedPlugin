@@ -97,6 +97,8 @@ PoisonedPlugin features, but is not limited to:
   * > You need to use the jar without `-dev` suffixed to the name, otherwise it won't work!
     
 ## TODO
+* [ ] API to inject Poison into Plugins
+* [ ] System to inject Poison into Server software directly
 * [ ] API to add commands/modules from other Plugins
 * [ ] Client-side helper mod
   * [ ] Better chat completion
