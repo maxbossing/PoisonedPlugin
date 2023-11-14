@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:PoisonedPlugin/.idea/modules/PoisonedPlugin.main.iml" filepath="F:PoisonedPlugin/.idea/modules/PoisonedPlugin.main.iml" />
+      <module fileurl="file://F:PoisonedPlugin/.idea/modules/PoisonedPlugin.test.iml" filepath="F:PoisonedPlugin/.idea/modules/PoisonedPlugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.maxbossing.PoisonedPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/de.maxbossing.PoisonedPlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.maxbossing.PoisonedPlugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/de.maxbossing.PoisonedPlugin.test.iml" />
+    </modules>
+  </component>
+</project>
